@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Kacper Adamczyk",
+    "label": "JavaScript Developer",
+    "email": "kacper.k.adamczyk@gmail.com",
+    "phone": "+48 508 173 166",
+    "location": {
+      "city": "Rzeszów",
+      "countryCode": "PL",
+      "region": "Rzeszów, Poland"
+    },
+    "profiles": [
+      {
+      "network": "GitHub",
+      "username": "KacperAdamczyk",
+      "url": "https://github.com/KacperAdamczyk"
+    },
+    {
+      "network": "Linkedin",
+      "username": "Kacper Adamczyk",
+      "url": "https://www.linkedin.com/in/kacper-adamczyk-a5337a162/"
+    }
+  ]
+  },
+  "work": [
+    {
+      "company": "PGS Software S.A.",
+      "position": "Full Stack Developer",
+      "website": "https://www.pgs-soft.com",
+      "startDate": "2018-06-01",
+      "summary": "Custom-built ERP solution for heavy industry. The main goal was to achieve a greater level of management control over production processes and oversight of operations with customers.",
+      "highlights": [
+        "JavaScript, React, Redux, Node.js, Express.js, HTML, CSS, Jest, MongoDB, jwt, Heroku, Vagrant, Amazon Web Services, yarn, storybook, styled-components"
+      ]
+    },
+    {
+      "company": "PGS Software S.A.",
+      "position": "Frontend Developer",
+      "website": "https://www.pgs-soft.com",
+      "startDate": "2018-02-01",
+      "endDate": "2017-05-31",
+      "summary": "Internal system for managing surveys.",
+      "highlights": [
+        "JavaScript, TypeScript, Angular, Angular Material, HTML, CSS, Karma, Jasmine"
+      ]
+    },
+    {
+      "company": "PGS Software S.A.",
+      "position": "Frontend Developer Intern",
+      "website": "https://www.pgs-soft.com",
+      "startDate": "2017-07-01",
+      "endDate": "2017-07-31",
+      "summary": "Simple SPA application displaying football statistics.",
+      "highlights": [
+        "JavaScript, TypeScript, Angular, HTML, CSS, Webpack"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rzeszów University of Technology",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2015-10-01",
+      "endDate": "2019-03-01",
+      "gpa": "5.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "GraphQL",
+        "HTML",
+        "CSS",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks & libraries",
+      "keywords": [
+        "React",
+        "Redux",
+        "React Native",
+        "Angular",
+        "Node.js",
+        "Express.js",
+        "Nest.js",
+        "Apollo",
+        "Jest",
+        "Webpack",
+        "styled-components",
+        "storybook",
+        "TypeORM",
+        "npm",
+        "yarn"
+      ]
+    },
+    {
+      "name": "Databases & cloud",
+      "keywords": [
+        "MongoDB",
+        "MongoDB Atlas",
+        "Heroku",
+        "Amazon S3",
+        "Amazon SNS",
+        "Amazon SES"
+      ]
+    },
+    {
+      "name": "Development tools",
+      "keywords": [
+        "Atlassian Software (Bitbucket, Jira, Confluence)",
+        "Visual Studio Code",
+        "Git",
+        "Invision",
+        "Postman"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Scrum",
+        "Kanban",
+        "RESTful",
+        "RWD",
+        "PWA"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2 - Upper intermediate"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Native"
+    }
+  ]
+}
