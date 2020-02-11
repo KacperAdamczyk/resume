@@ -11,23 +11,32 @@
     },
     "profiles": [
       {
-      "network": "GitHub",
-      "username": "KacperAdamczyk",
-      "url": "https://github.com/KacperAdamczyk"
-    },
-    {
-      "network": "Linkedin",
-      "username": "Kacper Adamczyk",
-      "url": "https://www.linkedin.com/in/kacper-adamczyk-a5337a162/"
-    }
-  ]
+        "network": "GitHub",
+        "username": "KacperAdamczyk",
+        "url": "https://github.com/KacperAdamczyk"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Kacper Adamczyk",
+        "url": "https://www.linkedin.com/in/kacper-adamczyk-a5337a162/"
+      }
+    ]
   },
   "work": [
+    {
+      "company": "Asseco Poland S.A.",
+      "position": "Senior Javascript Developer",
+      "website": "https://asseco.com",
+      "startDate": "2019-10-17",
+      "summary": "Development and maintenance of a banking platform.",
+      "highlights": ["JavaScript, TypeScript, Angular, Redux, HTML, SCSS"]
+    },
     {
       "company": "PGS Software S.A.",
       "position": "Full Stack Developer",
       "website": "https://www.pgs-soft.com",
       "startDate": "2018-06-01",
+      "endDate": "2019-10-16",
       "summary": "Custom-built ERP solution for heavy industry. The main goal was to achieve a greater level of management control over production processes and oversight of operations with customers.",
       "highlights": [
         "JavaScript, React, Redux, Node.js, Express.js, HTML, CSS, Jest, MongoDB, jwt, Heroku, Vagrant, Amazon Web Services, yarn, storybook, styled-components"
@@ -51,9 +60,7 @@
       "startDate": "2017-07-01",
       "endDate": "2017-07-31",
       "summary": "Simple SPA application displaying football statistics.",
-      "highlights": [
-        "JavaScript, TypeScript, Angular, HTML, CSS, Webpack"
-      ]
+      "highlights": ["JavaScript, TypeScript, Angular, HTML, CSS, Webpack"]
     }
   ],
   "education": [
@@ -69,14 +76,7 @@
   "skills": [
     {
       "name": "Programming languages",
-      "keywords": [
-        "JavaScript",
-        "TypeScript",
-        "GraphQL",
-        "HTML",
-        "CSS",
-        "SQL"
-      ]
+      "keywords": ["JavaScript", "TypeScript", "GraphQL", "HTML", "CSS", "SQL"]
     },
     {
       "name": "Frameworks & libraries",
@@ -121,13 +121,7 @@
     },
     {
       "name": "Other",
-      "keywords": [
-        "Scrum",
-        "Kanban",
-        "RESTful",
-        "RWD",
-        "PWA"
-      ]
+      "keywords": ["Scrum", "Kanban", "RESTful", "RWD", "PWA"]
     }
   ],
   "languages": [
