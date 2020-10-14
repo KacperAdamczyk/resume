@@ -24,10 +24,19 @@
   },
   "work": [
     {
+      "company": "ITMAGINATION sp. z o.o.",
+      "position": "Javascript Developer",
+      "website": "https://itmagination.com",
+      "startDate": "2019-09-01",
+      "summary": "Development and maintenance of products pages.",
+      "highlights": ["JavaScript, React, HTML, CSS"]
+    },
+    {
       "company": "Asseco Poland S.A.",
       "position": "Senior Javascript Developer",
       "website": "https://asseco.com",
       "startDate": "2019-10-17",
+      "endDate": "2020-08-31",
       "summary": "Development and maintenance of a banking platform.",
       "highlights": ["JavaScript, TypeScript, Angular, Redux, HTML, SCSS"]
     },
@@ -39,7 +48,7 @@
       "endDate": "2019-10-16",
       "summary": "Custom-built ERP solution for heavy industry. The main goal was to achieve a greater level of management control over production processes and oversight of operations with customers.",
       "highlights": [
-        "JavaScript, React, Redux, Node.js, Express.js, HTML, CSS, Jest, MongoDB, jwt, Heroku, Vagrant, Amazon Web Services, yarn, storybook, styled-components"
+        "JavaScript, React, Redux, Node.js, Express.js, HTML, CSS, CSS-in-JS, Jest, MongoDB, jwt, Heroku, Vagrant, Amazon Web Services, yarn, storybook, styled-components"
       ]
     },
     {
@@ -50,7 +59,7 @@
       "endDate": "2018-05-31",
       "summary": "Internal system for managing surveys.",
       "highlights": [
-        "JavaScript, TypeScript, Angular, Angular Material, HTML, CSS, Karma, Jasmine"
+        "JavaScript, TypeScript, Angular, Angular Material, HTML, SCSS, Karma, Jasmine"
       ]
     },
     {
@@ -64,6 +73,13 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of Information Technology and Management in Rzeszow",
+      "area": "Computer Engineering",
+      "studyType": "Master of Engineering",
+      "startDate": "2020-04-25",
+      "endDate": "2021-08-01"
+    },
     {
       "institution": "Rzeszów University of Technology",
       "area": "Computer Engineering",
