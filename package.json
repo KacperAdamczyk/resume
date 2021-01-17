@@ -6,15 +6,15 @@
   "scripts": {
     "test": "yarn run resume test",
     "export": "yarn run resume export resumes/resume --theme paper --format",
-    "export-pdf": "yarn export resumes/resume.pdf",
-    "export-all": "yarn clean && yarn prepare && yarn export pdf && yarn export html",
+    "export:pdf": "yarn export resumes/resume.pdf",
+    "export:all": "yarn clean && yarn prepare && yarn export pdf && yarn export html",
     "prepare": "yarn run mkdirp resumes",
     "clean": "yarn run rimraf resumes"
   },
   "dependencies": {
     "jsonresume-theme-paper": "^0.3.5",
     "mkdirp": "^1.0.4",
-    "resume-cli": "^2.0.0",
+    "resume-cli": "^3.0.4",
     "rimraf": "^3.0.2"
   }
 }
