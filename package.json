@@ -4,15 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "yarn run resume test",
-    "export": "yarn run resume export resumes/resume --theme paper --format",
-    "export:pdf": "yarn export resumes/resume.pdf",
-    "export:all": "yarn clean && yarn prepare && yarn export pdf && yarn export html",
-    "prepare": "yarn run mkdirp resumes",
-    "clean": "yarn run rimraf resumes"
+    "test": "pnpm resume test",
+    "export": "pnpm resume export resumes/resume --theme paper --format",
+    "export:pdf": "pnpm export resumes/resume.pdf",
+    "export:all": "pnpm clean && pnpm prepare && pnpm export -- pdf && pnpm export -- html",
+    "prepare": "pnpm mkdirp resumes",
+    "clean": "pnpm rimraf resumes"
   },
   "dependencies": {
-    "jsonresume-theme-paper": "^0.3.5",
+    "jsonresume-theme-paper": "^0.5.0",
     "mkdirp": "^1.0.4",
     "resume-cli": "^3.0.4",
     "rimraf": "^3.0.2"
