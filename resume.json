@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "theme": "paper"
+  },
   "basics": {
     "name": "Kacper Adamczyk",
     "label": "JavaScript Developer",
@@ -29,7 +32,9 @@
       "website": "https://itmagination.com",
       "startDate": "2020-09-01",
       "summary": "Development of an internal content management system.",
-      "highlights": ["JavaScript, React, Next.js, SSR, HTML, SCSS, Docker, Jenkins"]
+      "highlights": [
+        "JavaScript, React, Next.js, SSR, HTML, SCSS, Docker, Jenkins"
+      ]
     },
     {
       "company": "Asseco Poland S.A.",
@@ -38,7 +43,9 @@
       "startDate": "2019-10-17",
       "endDate": "2020-08-31",
       "summary": "Development and maintenance of a banking platform.",
-      "highlights": ["JavaScript, TypeScript, Angular, Redux, HTML, SCSS"]
+      "highlights": [
+        "JavaScript, TypeScript, Angular, Redux, HTML, SCSS"
+      ]
     },
     {
       "company": "PGS Software S.A.",
@@ -69,7 +76,9 @@
       "startDate": "2017-07-01",
       "endDate": "2017-07-31",
       "summary": "Simple SPA application displaying football statistics.",
-      "highlights": ["JavaScript, TypeScript, Angular, HTML, CSS, Webpack"]
+      "highlights": [
+        "JavaScript, TypeScript, Angular, HTML, CSS, Webpack"
+      ]
     }
   ],
   "education": [
@@ -92,7 +101,14 @@
   "skills": [
     {
       "name": "Programming languages",
-      "keywords": ["JavaScript", "TypeScript", "GraphQL", "HTML", "CSS", "SQL"]
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "GraphQL",
+        "HTML",
+        "CSS",
+        "SQL"
+      ]
     },
     {
       "name": "Frameworks & libraries",
@@ -146,7 +162,13 @@
     },
     {
       "name": "Other",
-      "keywords": ["Scrum", "Kanban", "RESTful", "RWD", "PWA"]
+      "keywords": [
+        "Scrum",
+        "Kanban",
+        "RESTful",
+        "RWD",
+        "PWA"
+      ]
     }
   ],
   "languages": [

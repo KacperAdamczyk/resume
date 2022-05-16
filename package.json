@@ -4,14 +4,17 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "pnpm resume test",
-    "export": "pnpm resume export resumes/resume --theme paper --format",
-    "export:pdf": "pnpm export pdf",
-    "export:all": "pnpm clean && pnpm prepare && pnpm export -- pdf && pnpm export -- html",
+    "validate": "pnpm resume validate",
+    "make": "pnpm resume export resumes/resume.html --theme paper",
     "prepare": "pnpm mkdirp resumes",
-    "clean": "pnpm rimraf resumes"
+    "clean": "pnpm rimraf resumes",
+    "customize": "node customizations/customize.mjs",
+    "print": "node print.mjs",
+    "export": "pnpm clean && pnpm prepare && pnpm make && pnpm customize && pnpm print"
   },
   "dependencies": {
+    "cheerio": "1.0.0-rc.10",
+    "html-pdf": "^3.0.1",
     "jsonresume-theme-paper": "^0.5.0",
     "mkdirp": "^1.0.4",
     "resume-cli": "^3.0.4",
