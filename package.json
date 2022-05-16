@@ -6,7 +6,7 @@
   "scripts": {
     "test": "pnpm resume test",
     "export": "pnpm resume export resumes/resume --theme paper --format",
-    "export:pdf": "pnpm export resumes/resume.pdf",
+    "export:pdf": "pnpm export pdf",
     "export:all": "pnpm clean && pnpm prepare && pnpm export -- pdf && pnpm export -- html",
     "prepare": "pnpm mkdirp resumes",
     "clean": "pnpm rimraf resumes"

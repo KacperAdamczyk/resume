@@ -18,7 +18,7 @@
       {
         "network": "Linkedin",
         "username": "Kacper Adamczyk",
-        "url": "https://www.linkedin.com/in/kacper-adamczyk-a5337a162/"
+        "url": "https://www.linkedin.com/in/kacper-adamczyk/"
       }
     ]
   },
@@ -27,9 +27,9 @@
       "company": "ITMAGINATION sp. z o.o.",
       "position": "Javascript Developer",
       "website": "https://itmagination.com",
-      "startDate": "2019-09-01",
-      "summary": "Development of branded content management system.",
-      "highlights": ["JavaScript, React, HTML, CSS"]
+      "startDate": "2020-09-01",
+      "summary": "Development of an internal content management system.",
+      "highlights": ["JavaScript, React, Next.js, SSR, HTML, SCSS, Docker, Jenkins"]
     },
     {
       "company": "Asseco Poland S.A.",
@@ -74,11 +74,11 @@
   ],
   "education": [
     {
-      "institution": "University of Information Technology and Management in Rzeszow",
+      "institution": "University of Information Technology and Management in Rzeszów",
       "area": "Computer Engineering",
       "studyType": "Master of Engineering",
       "startDate": "2020-04-25",
-      "endDate": "2021-08-01"
+      "endDate": "2022-10-01"
     },
     {
       "institution": "Rzeszów University of Technology",
@@ -98,20 +98,27 @@
       "name": "Frameworks & libraries",
       "keywords": [
         "React",
-        "Redux",
-        "React Native",
-        "Angular",
+        "Next.js",
+        "SSR",
         "Node.js",
+        "NestJS",
+        "Redux",
         "Express.js",
-        "Nest.js",
         "Apollo",
         "Jest",
+        "Cypress",
         "Webpack",
+        "Vite",
         "styled-components",
+        "emotion",
         "storybook",
-        "TypeORM",
-        "npm",
-        "yarn"
+        "Prisma",
+        "pnpm",
+        "yarn",
+        "Docker",
+        "GitHub Actions",
+        "React Native",
+        "Angular"
       ]
     },
     {
@@ -129,6 +136,8 @@
       "name": "Development tools",
       "keywords": [
         "Atlassian Software (Bitbucket, Jira, Confluence)",
+        "GitHub",
+        "WebStorm",
         "Visual Studio Code",
         "Git",
         "Invision",
