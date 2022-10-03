@@ -21,7 +21,7 @@
       {
         "network": "Linkedin",
         "username": "Kacper Adamczyk",
-        "url": "https://www.linkedin.com/in/kacper-adamczyk/"
+        "url": "https://www.linkedin.com/in/kacper-adamczyk"
       }
     ]
   },
@@ -33,7 +33,7 @@
       "startDate": "2020-09-01",
       "summary": "Development of an internal content management system.",
       "highlights": [
-        "JavaScript, React, Next.js, SSR, HTML, SCSS, Docker, Jenkins"
+        "JavaScript, Typescript, React, Next.js, SSR, HTML, SCSS, Docker, Jenkins"
       ]
     },
     {
@@ -116,6 +116,7 @@
         "React",
         "Next.js",
         "SSR",
+        "react-query",
         "Node.js",
         "NestJS",
         "Redux",
